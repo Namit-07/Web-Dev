@@ -1,57 +1,66 @@
-# 🌐 Web Dev Course – Full Stack Journey & Portfolio
+# 🌐 Web Development Course – Full Stack Portfolio & Learning Journey
 
-Welcome to my web development journey! This repository documents my complete learning path through HTML, CSS, JavaScript, and beyond — as I build projects and develop the skills required to become a full-stack developer.
-
-This repo also acts as a personal portfolio for recruiters, mentors, and collaborators to view my work and progress.
-
----
-
-## 📘 About This Repository
-
-- 🛠️ Hands-on practice of modern web development tools and technologies
-- 🎯 Goal: Build a professional-level portfolio while mastering the fundamentals
-- 🚀 Built from scratch, continuously improved and committed daily
+Welcome to my **Web Development Course Repository**, where I document my journey to becoming a **professional full-stack developer**.  
+This repository combines **complete course notes**, **hands-on practice**, and **real projects** — serving as both a **learning hub** and a **portfolio showcase** for recruiters and collaborators.
 
 ---
 
-## 🧱 Tech Stack Covered
+## 🚀 About the Repository
 
-| Language / Tool     | Status     |
-|---------------------|------------|
-| HTML                | ✅ Completed |
-| CSS                 | ⏳ In Progress |
-| JavaScript (Vanilla)| 🔜 Upcoming |
-| Git & GitHub        | ✅ Daily Commits |
-| Responsive Design   | 🔜 Upcoming |
-| React.js            | 🔜 Upcoming |
-| Backend (Node, MongoDB) | 🔜 Coming Soon |
-| Deployment (Netlify/Vercel) | 🔜 Planned |
+This repo reflects:
+
+- 📚 Structured learning: HTML, CSS, JavaScript, and beyond
+- 👨‍💻 Daily code practice and personal mini-projects
+- 💼 A professional portfolio in progress for job and internship opportunities
+- 🌱 Early preparation for **Google Summer of Code 2026 (GSoC)**
 
 ---
 
-## 🧑‍💻 Current Sections
+## 🧠 Technologies Covered
 
-- `/HTML/` – Basic web page structures, semantic tags, media embedding, clean layouts
-- `/CSS/` *(soon)* – Styling fundamentals, layout systems (Flexbox, Grid)
-- `/JS/` *(planned)* – DOM manipulation, events, and interactivity
-- `/Projects/` *(planned)* – Real-world responsive mini-projects and portfolio builds
+| ✅ Tech/Tool         | 📌 Status        |
+|----------------------|------------------|
+| HTML5                | ✅ Completed      |
+| CSS3                 | 🔄 In Progress    |
+| JavaScript (ES6+)    | 🔜 Coming Soon    |
+| Git & GitHub         | ✅ Active Daily   |
+| Responsive Design    | 🔜 Planned        |
+| React.js             | 🔜 Future Phase   |
+| Backend (Node.js, MongoDB) | 🔜 To Be Added    |
+| Deployment (Netlify/Vercel) | 🔜 Upcoming       |
 
 ---
 
-## 📌 Long-Term Goal
+## ✨ Highlights
 
-This repository is part of my roadmap to becoming a **full-stack developer** and preparing early for **Google Summer of Code 2026 (GSoC)**.  
-It serves as both a coding journal and a public showcase of my progress, commitment, and skills.
+- ✅ Semantic HTML structure with clean, maintainable code
+- 🎬 Embedded media support (video, image)
+- 🔄 Ongoing GitHub commits reflecting active learning
+- 📈 Designed to evolve into a full developer portfolio
+
+---
+
+## 🎯 Goals & Vision
+
+This repository is part of a long-term plan to:
+
+- ✅ Master full-stack development fundamentals  
+- 📂 Build a portfolio that showcases real-world dev skills  
+- 🌍 Contribute to open-source and prepare for **GSoC 2026**  
+- 🧑‍💻 Land internships and roles at top tech companies  
 
 ---
 
 ## 📫 Let's Connect
 
 - 🔗 GitHub: [@Namit-07](https://github.com/Namit-07)
-- 💼 Portfolio Website: *(coming soon)*
-- 📬 Open to internships, collaborations, and mentorship opportunities
+- 🌐 Portfolio: *Coming soon*
+- 📬 Open to: internships • open-source • tech community building
 
 ---
 
-**Made with 💻, consistency, and the dream of building real-world solutions.**
+> **"Learning in public, building with purpose."**  
+> *This repo is proof that consistency and passion beat perfection.*
+
+
 
