@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html{
+            font-size: 12px;
+        }
+
+        .box {
+            box-sizing: border-box;
+            border: 2px solid black;
+            /* width: 1920px; */
+            width: 80vw;
+            height: 10vh;
+            margin: auto;
+            background-color: aquamarine;
+        }
+
+        .container {    
+            box-sizing: border-box;
+            border: 2px solid black;
+            /* width: 1920px; */
+            width: 80vw;
+            /* height: 80vh; */
+            min-height: 80vh;
+            margin: 23px auto;
+            font-size: 12px;
+            background-color: aquamarine;
+
+        }
+        
+        .container > div{
+            font-size: 2em;
+            border: 2px solid red;
+            width: 50%;
+        }
+
+        .container > div > div{
+            border: 2px solid blue;
+            width: 50%;
+        }
+
+        .mycont {
+            background-color: red;
+            color: yellow;
+            font-size: 22px;
+            width: 100vmin;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        This is a box
+    </div>
+
+    <div class="container">
+        <div>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum, veritatis similique dicta in facere
+            accusamus repellat id unde culpa rem possimus itaque, veniam quidem tenetur quas. Soluta doloribus tenetur
+            deserunt! Velit ex excepturi at officiis incidunt, modi placeat eveniet eum debitis sequi iure laudantium
+            dolores quos ipsa deserunt aliquam! Aliquam reiciendis laudantium id molestias quis blanditiis!
+        
+        <div>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae magnam, blanditiis molestiae placeat voluptates architecto eum nam obcaecati? Fugit iure quam odit repellat.
+        </div>    
+    </div>
+        
+        <!-- Expand this to see that this container will adjust it's height on it's own -->
+    </div>
+
+    <div class="mycont">
+        I am another container
+
+    </div>
+</body>
+
+</html>
