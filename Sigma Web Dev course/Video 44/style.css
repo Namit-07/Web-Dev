@@ -1,0 +1,119 @@
+ .logo {}
+
+        .logo img {
+            width: 164px;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            font-family: "Segoe UI";
+        }
+
+        .right ul {
+            display: flex;
+            gap: 34px;
+        }
+
+        .right ul li {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .right ul li span {
+            padding: 0 5px;
+        }
+
+        .first {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 23px;
+            margin: 70px;
+            font-family: "Sans Serif";
+
+        }
+
+        .first span {
+            font-size: 40px;
+        }
+
+        section span img {
+            width: 82px;
+            margin: 0 2p;
+        }
+
+        .first p {
+            font-size: 21px;
+            width: 44vw;
+            text-align: center;
+        }
+        
+        .btn {
+            padding: 18px 16px;
+            color: white;
+            background: #00b6d1;
+            border-radius: 5px;
+            border: none;
+            font-weight: 700;
+            margin: 12px 0;
+            cursor: pointer;
+        }
+        .green{
+            background: #5cb85c;
+
+        }
+
+        .flex{
+            display: flex;
+        }
+        .small{
+            font-size: 12px;
+        }
+        .second{
+           max-width: 65vw;
+           margin: auto;
+
+        
+        }
+        .item{
+            padding: 23px;
+            background: #f9f9f9;
+            border-radius: 12px;
+            font-size: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+        .item-lang{
+            font-weight: 700;
+            text-align: center;
+            padding-bottom: 36px;
+        }
+        .grid{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 12px;
+        }
+        .download :nth-child(2){
+            font-size: 23px;
+
+        }
+        .download img{
+            padding: 0px 12px;
+        }
+        .download{
+            display: flex;
+            font-family: sans-serif;
+            align-items: center;
+            gap: 10px
+        }
+        @media screen and (max-width: 1145px){
+            .grid{
+                grid-template-columns: 1fr;
+            }
+
+        }
