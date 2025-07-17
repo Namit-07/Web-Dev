@@ -1,0 +1,130 @@
+@import url(https://assets.nflxext.com/ffe/siteui/fonts/hawkins-consumer/netflix-sans/4.19.1/netflix-sans-core-variable-full.woff);
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.main {
+    background-image: url(Images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.main .box {
+    height: 100vh;
+    width: 100%;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    background-color: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 80vw;
+    margin: auto;
+    align-items: center;
+    height: 90px;
+}
+
+nav img {
+    color: rgb(81, 0, 0);
+    width: 150px;
+    position: relative;
+    z-index: 10;
+    /* height: 500px; */
+}
+
+nav .btn {
+    position: relative;
+    z-index: 10;
+}
+
+.hero {
+    font-family: Netflix Sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: calc(100% - 90px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    position: relative;
+    gap: 8px;
+    padding: 0 30px;
+}
+
+.hero>* {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.hero> :nth-child(1) {
+    font-weight: 1000;
+    font-size: 55px;
+    text-align: center;
+}
+
+.hero> :nth-child(2) {
+    font-weight: 1000;
+    font-size: 48px;
+    text-align: center;
+}
+
+.hero> :nth-child(3) {
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.hero> :nth-child(4) {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.seperation {
+    height: 7px;
+    background-color: rgb(197, 24, 24);
+}
+
+.btn {
+    padding: 3px 8px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.btn-red {
+    background-color: red;
+    font-size: 25px;
+    padding: 12px 35px;
+    border-radius: 4px;
+    color: white;
+    border: none;
+}
+
+.btn-red-sm {
+    background-color: red;
+    color: white;
+}
+
+.main input{
+    padding: 12px 35px 14px 14px;
+   font-weight: 900;
+    font-size: 20px;
+    border-radius: 4px;
+    background-color: rgba(23, 23, 23, 0.7);
+    border: 1px solid rgba(224, 202, 202, 0.5);
+    color: white;
+  
+}
