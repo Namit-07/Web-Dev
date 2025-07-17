@@ -21,7 +21,7 @@ This repo reflects:
 | ✅ Tech/Tool         | 📌 Status        |
 |----------------------|------------------|
 | HTML5                | ✅ Completed      |
-| CSS3                 | 🔄 In Progress    |
+| CSS3                 | ✅ Completed    |
 | JavaScript (ES6+)    | 🔜 Coming Soon    |
 | Git & GitHub         | ✅ Active Daily   |
 | Responsive Design    | 🔜 Planned        |
@@ -54,6 +54,7 @@ This repository is part of a long-term plan to:
 ## 📫 Let's Connect
 
 - 🔗 GitHub: [@Namit-07](https://github.com/Namit-07)
+- 🔗 LinkedIN: [Namit Tickoo](https://www.linkedin.com/in/namit-tickoo-69b2a9367/)
 - 🌐 Portfolio: *Coming soon*
 - 📬 Open to: internships • open-source • tech community building
 
