@@ -31,6 +31,12 @@ This repo reflects:
 
 ---
 
+## ✨ Projects
+
+- (Netflix)[https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Netflix%20Clone]: Using CSS and HTML only
+
+---
+
 ## ✨ Highlights
 
 - ✅ Semantic HTML structure with clean, maintainable code
