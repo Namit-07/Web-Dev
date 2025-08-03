@@ -49,6 +49,7 @@ Through this project, I strengthened my understanding of:
 🎯 Aspiring Full Stack Developer | GSoC '26 Aspirant
 
 GitHub: [@Namit-07](https://github.com/Namit-07)
+Website: [Netflix-Clone](https://namit-07.github.io/NetflixClone-Demo/)
 
 ---
 
