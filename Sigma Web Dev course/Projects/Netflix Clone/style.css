@@ -110,7 +110,6 @@ nav .btn {
 
 
 }
-@media (max-width: 480px) {
 .btn-red {
     background-color: red;
     font-size: 25px;
@@ -119,8 +118,6 @@ nav .btn {
     color: white;
     border: none; 
 }
-}
-@media (max-width: 480px) {
 .btn-red-sm {
     background-color: red;
     color: white;
@@ -128,7 +125,6 @@ nav .btn {
     font-size: 13px;
     border: none;
     font-weight: bold;
-}
 }
 
 .main input {
