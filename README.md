@@ -32,8 +32,7 @@ This repo reflects:
 ---
 
 ## ✨ Projects
-
-- [Netflix Clone](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Netflix%20Clone): Using CSS and HTML only
+- [Netflix Clone](https://namit-07.github.io/NetflixClone-Demo/): Using CSS and HTML only
 
 ---
 
