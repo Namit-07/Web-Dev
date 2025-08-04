@@ -223,9 +223,6 @@ footer .questions {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     color: white;
 }
-
-
-
 @media screen and (max-width: 1300px) {
 
     nav {
