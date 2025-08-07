@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="box" style="display: flex;" data-createdby="Namit" data-conceptby="Rohan" >Hey I am a box</div>
+        <div class="box">Hey I am a box</div>
+        <script> 
+            // let div = document.createElement("div");
+        // div.innerHTML = "I have been inserted <b>by Namit</b>"
+            // div.setAttribute("class", "created");
+            // document.querySelector(".container").append(div)
+
+            let cont = document.querySelector(".container")
+            cont.insertAdjacentHTML("afterbegin", "<b> I am under the water. Please help me here too much raining....iuooooooooooo</b>")
+        </script>
+    </div>
+</body>
+</html>
+
+<!-- "afterbegin" attribute will insert the element before the first child of the parent element-->
+<!-- "afterend" attribute will insert the element after the last child of the parent element -->
+<!-- "beforebegin" attribute will insert the element before the parent element -->
+<!-- "beforeend" attribute will insert the element after the parent element -->
