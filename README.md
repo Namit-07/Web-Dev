@@ -22,7 +22,7 @@ This repo reflects:
 |----------------------|------------------|
 | HTML5                | ✅ Completed      |
 | CSS3                 | ✅ Completed    |
-| JavaScript (ES6+)    | 🔜 Coming Soon    |
+| JavaScript (ES6+)    | ✅ Completed    |
 | Git & GitHub         | ✅ Active Daily   |
 | Responsive Design    | 🔜 Planned        |
 | React.js             | 🔜 Future Phase   |
