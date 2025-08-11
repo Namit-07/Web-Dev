@@ -10,11 +10,12 @@ body {
 
 .left {
     width: 25vw;
-    padding: 34px;
+    padding: 5px;
 }
 
 .right {
     width: 75vw;
+    margin: 16px 0;
 }
 
 .home {
@@ -64,10 +65,28 @@ body {
 
 .header{
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
+    background-color: rgb(34, 34, 34);
 }
 
 .nav img{
-    width: 13px;
-    padding: 10px;
+    width: 13px;    
+    padding: 5px;
+}
+
+.header > *{
+    padding: 20px;
+}
+
+.spotifyPlaylists{
+    padding: 16px;
+}   
+
+.spotifyPlaylists .card{
+    width: 200px;
+}
+
+.card img{
+    width: 100%;
+    object-fit: contain;
 }
