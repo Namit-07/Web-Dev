@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="utility.css">
-    <title>Document</title>
+    <title>Spotify - Web Player: Music for everyone</title>
 </head>
 
 <body>
@@ -27,6 +27,14 @@
                         Your Library
                     </h2>
                 </div>
+
+                <div class="songList">
+
+                    <ul>
+                        
+                    </ul>
+                </div>
+
                 <div class="footer">
                     <div><a href="https://www.spotify.com/jp/legal/"><span>Legal</span></a></div>
                     <div><a href="https://www.spotify.com/jp/privacy/"><span>Privacy Center</span></a></div>
@@ -46,22 +54,48 @@
                     <img class="invert" src="right.svg" alt="">
                 </div>
                 <div class="buttons">
-                    <button>SignUp</button>
-                    <button>Login</button>
+                    <button class="signupbtn">SignUp</button>
+                    <button class="loginbtn">Log In</button>
                 </div>
             </div>
             <div class="spotifyPlaylists">
                 <h1>Spotify Playlists</h1>
                 <div class="cardContainer">
                     <div class="card">
+                        <div class="play">
+
+                        </div>
                         <img src="https://i.scdn.co/image/ab67706f00000002a46ea55285180036c5e8f196  " alt="">
                         <h2>Happy Hits!</h2>
                         <p>Hits to boost your mood and fill you with happiness!</p>
                     </div>
+
+                    <div class="card">
+                        <div class="play">
+
+                        </div>
+                        <img src="https://i.scdn.co/image/ab67706f00000002a46ea55285180036c5e8f196  " alt="">
+                        <h2>Happy Hits!</h2>
+                        <p>Hits to boost your mood and fill you with happiness!</p>
+                    </div>
+
+
+                </div>
+                <div class="playbar">
+                    <div class="songinfo">
+
+                    </div>
+                    <div class="songbuttons">
+                        <img src="prevsong.svg" alt="">
+                        <img src="play.svg" alt="">
+                        <img src="nextsong.svg " alt="">
+                    </div>
+                    <div class="songtime"></div>
                 </div>
             </div>
         </div>
     </div>
+    <script src="script.js"></script>
 </body>
 
 </html>
