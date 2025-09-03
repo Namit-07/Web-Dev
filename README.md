@@ -26,7 +26,7 @@ This repo reflects:
 | Git & GitHub         | ✅ Active Daily   |
 | Responsive Design    | 🔜 Planned        |
 | React.js             | 🔜 Future Phase   |
-| Backend (Node.js, MongoDB) | 🔜 To Be Added    |
+| Backend (Node.js, MongoDB) | ✅ In progress   |
 | Deployment (Netlify/Vercel) | 🔜 Upcoming       |
 
 ---
