@@ -1,0 +1,13 @@
+.card{
+  border: 2px solid black;
+  max-width: 23vw;
+
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
