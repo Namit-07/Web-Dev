@@ -24,10 +24,10 @@ This repo reflects:
 | CSS3                 | ✅ Completed    |
 | JavaScript (ES6+)    | ✅ Completed    |
 | Git & GitHub         | ✅ Active Daily   |
-| Responsive Design    | 🔜 Planned        |
-| React.js             | 🔜 Future Phase   |
-| Backend (Node.js, MongoDB) | ✅ In progress   |
-| Deployment (Netlify/Vercel) | 🔜 Upcoming       |
+| Responsive Design    | 🔜 Implementing in every project  |
+| React.js             | 🔜 Ongoing   |
+| Backend (Node.js, MongoDB) | ✅ Completed   |
+| Deployment (Netlify/Vercel) | 🔜 Upcoming      |
 
 ---
 
