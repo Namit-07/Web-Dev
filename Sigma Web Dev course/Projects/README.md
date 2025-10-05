@@ -55,11 +55,11 @@ npm run dev
 - ✅ Hosting backend apps on Ubuntu VPS
 
 <h2>🚀 Future Goals</h2>
-- Add authentication and JWT-based login
-- Implement dark/light mode toggle
-- Integrate real APIs for live data
-- Deploy frontend projects on Vercel & backend on Render/VPS
-- Optimize code for scalability & performance
+-Add authentication and JWT-based login
+-Implement dark/light mode toggle
+-Integrate real APIs for live data
+-Deploy frontend projects on Vercel & backend on Render/VPS
+-Optimize code for scalability & performance
 
 <h2>📸 Sneak Peek</h2>
 <p align="center"> <img src="https://github.com/Namit-07/Web-Dev/assets/placeholder1" width="600"/> <br/> <i>Preview of one of the React projects built during the course</i> </p>
