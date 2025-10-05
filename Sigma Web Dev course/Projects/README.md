@@ -46,7 +46,7 @@ Copy code
 npm run dev
 ```
 
-<h2>💡 What I’ve Learned</h2>
+## 💡 What I’ve Learned
 - ✅Core web fundamentals (HTML5, CSS3, Flexbox, Grid)
 - ✅Responsive design with TailwindCSS
 - ✅State management with React hooks (useState, useEffect, useRef)
@@ -54,7 +54,7 @@ npm run dev
 - ✅RESTful API design with Express & MongoDB integration
 - ✅Hosting backend apps on Ubuntu VPS
 
-<h2>🚀 Future Goals</h2>
+## 🚀 Future Goals
 - Add authentication and JWT-based login
 - Implement dark/light mode toggle
 - Integrate real APIs for live data
