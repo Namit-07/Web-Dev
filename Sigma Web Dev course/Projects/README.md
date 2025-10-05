@@ -46,27 +46,23 @@ Copy code
 npm run dev
 ```
 
-💡 What I’ve Learned
-✅ Core web fundamentals (HTML5, CSS3, Flexbox, Grid)
-✅ Responsive design with TailwindCSS
-✅ State management with React hooks (useState, useEffect, useRef)
-✅ Component-based architecture and prop drilling
-✅ RESTful API design with Express & MongoDB integration
-✅ Hosting backend apps on Ubuntu VPS
+<h2>💡 What I’ve Learned</h2>
+- ✅ Core web fundamentals (HTML5, CSS3, Flexbox, Grid)
+- ✅ Responsive design with TailwindCSS
+- ✅ State management with React hooks (useState, useEffect, useRef)
+- ✅ Component-based architecture and prop drilling
+- ✅ RESTful API design with Express & MongoDB integration
+- ✅ Hosting backend apps on Ubuntu VPS
 
-🚀 Future Goals
-Add authentication and JWT-based login
+<h2>🚀 Future Goals</h2>
+- Add authentication and JWT-based login
+- Implement dark/light mode toggle
+- Integrate real APIs for live data
+- Deploy frontend projects on Vercel & backend on Render/VPS
+- Optimize code for scalability & performance
 
-Implement dark/light mode toggle
-
-Integrate real APIs for live data
-
-Deploy frontend projects on Vercel & backend on Render/VPS
-
-Optimize code for scalability & performance
-
-📸 Sneak Peek
+<h2>📸 Sneak Peek</h2>
 <p align="center"> <img src="https://github.com/Namit-07/Web-Dev/assets/placeholder1" width="600"/> <br/> <i>Preview of one of the React projects built during the course</i> </p>
 📬 Connect With Me
 <p align="center"> <a href="https://github.com/Namit-07"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/namit-tickoo-69b2a9367/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> </p>
-<p align="center"> ✨ <b>Every project here is a building block toward becoming a full-stack developer ready for GSoC 2026.</b> ✨ </p> ```
+<p align="center"> ✨ <b>Every project here is a building block toward becoming a full-stack developer ready for GSoC 2026.</b> ✨ </p>
