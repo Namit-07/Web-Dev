@@ -67,7 +67,7 @@ npm start
 - Making UIs responsive with TailwindCSS
 - Writing clean, reusable components
 
-📬 Connect With Me
+### 📬 Connect With Me
 <p align="center"> <a href="https://github.com/Namit-07"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/namit-tickoo-69b2a9367/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> </p>
 <p align="center">
   ✨ Built by <b>Namit Tickoo</b> — as part of the Sigma Web Development journey. ✨</p>
