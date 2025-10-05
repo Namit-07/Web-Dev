@@ -12,10 +12,9 @@
 | # | Project Name | Description | Tech Stack |
 |:-:|---------------|-------------|-------------|
 | 1 | **Twitter/X Clone UI** | A static clone of Twitter’s feed and sidebar layout focusing on modern responsive design. | HTML, CSS, TailwindCSS |
-| 2 | **Notes / To-Do Manager** | A full CRUD React app to create, update, and delete notes or tasks. | React, useState, useEffect |
-| 3 | **Admin Dashboard** | Data visualization dashboard showing stats and charts dynamically. | React, Chart.js |
-| 4 | **Express API on Ubuntu VPS** | Backend app hosted on VPS with basic CRUD endpoints. | Node.js, Express.js, MongoDB |
-| 5 | **Media Player / Bookmark Manager** | Pure HTML/CSS/JS project managing bookmarks and local data storage. | HTML, CSS, JS |
+| 2 | **To-Do List** | A full React app to create, update, and delete tasks. | React, TailwindCSS, uuid |
+| 3 | **Spotify** | A fully functional media player inspired by Spotify. | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB |
+| 4 | **Netflix** | Pure HTML/CSS/JS project inspired by Netflix. | HTML, CSS, JS |
 
 ---
 
