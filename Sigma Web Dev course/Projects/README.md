@@ -40,8 +40,8 @@ npm start
 
 or for development builds:
 
-```bash
 Copy code
+```bash
 npm run dev
 ```
 
