@@ -47,19 +47,19 @@ npm run dev
 ```
 
 <h2>💡 What I’ve Learned</h2>
-- ✅ Core web fundamentals (HTML5, CSS3, Flexbox, Grid)
-- ✅ Responsive design with TailwindCSS
-- ✅ State management with React hooks (useState, useEffect, useRef)
-- ✅ Component-based architecture and prop drilling
-- ✅ RESTful API design with Express & MongoDB integration
-- ✅ Hosting backend apps on Ubuntu VPS
+- ✅Core web fundamentals (HTML5, CSS3, Flexbox, Grid)
+- ✅Responsive design with TailwindCSS
+- ✅State management with React hooks (useState, useEffect, useRef)
+- ✅Component-based architecture and prop drilling
+- ✅RESTful API design with Express & MongoDB integration
+- ✅Hosting backend apps on Ubuntu VPS
 
 <h2>🚀 Future Goals</h2>
--Add authentication and JWT-based login
--Implement dark/light mode toggle
--Integrate real APIs for live data
--Deploy frontend projects on Vercel & backend on Render/VPS
--Optimize code for scalability & performance
+- Add authentication and JWT-based login
+- Implement dark/light mode toggle
+- Integrate real APIs for live data
+- Deploy frontend projects on Vercel & backend on Render/VPS
+- Optimize code for scalability & performance
 
 <h2>📸 Sneak Peek</h2>
 <p align="center"> <img src="https://github.com/Namit-07/Web-Dev/assets/placeholder1" width="600"/> <br/> <i>Preview of one of the React projects built during the course</i> </p>
