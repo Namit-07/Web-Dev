@@ -56,9 +56,13 @@ The app will launch at:
 http://localhost:3000
 ```
 
+---
+
 ### 📸 Preview
 <p align="center"> <img src="https://github.com/Namit-07/Web-Dev/blob/main/Sigma%20Web%20Dev%20course/Projects/X.com%20Clone/Screenshot%202025-09-17%20142212.png" width="600"/> <br/> <i>Preview of X/Twitter Clone</i> </p>
 Dark-themed feed layout cloned from Twitter.
+
+---
 
 ### 📚 What I Learned
 - Building React components and passing props
@@ -67,6 +71,8 @@ Dark-themed feed layout cloned from Twitter.
 - Styling with Tailwind — utility-first CSS + responsive breakpoints
 - Handling user input to dynamically add posts
 
+---
+
 ### 🚀 Next Steps / Improvements
 - Integrate with backend (Node + Express + MongoDB) to store posts
 - Add authentication / user login
@@ -74,6 +80,8 @@ Dark-themed feed layout cloned from Twitter.
 - Improve responsiveness on mobile
 - Add dark + light mode toggle
 - Use CSS transitions / animations for better UI feedback
+
+---
 
 <h2>📬 Connect With Me</h2>
 <p align="center"> <a href="https://github.com/Namit-07"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/namit-tickoo-69b2a9367/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> </p>
