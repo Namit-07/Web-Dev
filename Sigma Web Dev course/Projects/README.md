@@ -65,3 +65,7 @@ npm run dev
 📬 Connect With Me
 <p align="center"> <a href="https://github.com/Namit-07"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/namit-tickoo-69b2a9367/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> </p>
 <p align="center"> ✨ <b>Every project here is a building block toward becoming a full-stack developer ready for GSoC 2026.</b> ✨ </p>
+
+---
+
+Built with 🔥 by Namit Tickoo as part of my Sigma Web Dev journey.
