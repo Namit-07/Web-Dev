@@ -12,10 +12,9 @@
 | # | Project Name | Description | Tech Stack |
 |:-:|---------------|-------------|-------------|
 | 1 | **Twitter/X Clone UI** | A static clone of Twitter’s feed and sidebar layout focusing on modern responsive design. | HTML, CSS, TailwindCSS |
-| 2 | **Notes / To-Do Manager** | A full CRUD React app to create, update, and delete notes or tasks. | React, useState, useEffect |
-| 3 | **Admin Dashboard** | Data visualization dashboard showing stats and charts dynamically. | React, Chart.js |
-| 4 | **Express API on Ubuntu VPS** | Backend app hosted on VPS with basic CRUD endpoints. | Node.js, Express.js, MongoDB |
-| 5 | **Media Player / Bookmark Manager** | Pure HTML/CSS/JS project managing bookmarks and local data storage. | HTML, CSS, JS |
+| 2 | **To-Do List** | A full React app to create, update, and delete tasks. | React, TailwindCSS, uuid |
+| 3 | **Spotify** | A fully functional media player inspired by Spotify. | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB |
+| 4 | **Netflix** | Pure HTML/CSS/JS project inspired by Netflix. | HTML, CSS, JS |
 
 ---
 
@@ -41,8 +40,8 @@ npm start
 
 or for development builds:
 
-```bash
 Copy code
+```bash
 npm run dev
 ```
 
@@ -62,7 +61,7 @@ npm run dev
 - Optimize code for scalability & performance
 
 <h2>📸 Sneak Peek</h2>
-<p align="center"> <img src="https://github.com/Namit-07/Web-Dev/assets/placeholder1" width="600"/> <br/> <i>Preview of one of the React projects built during the course</i> </p>
+<p align="center"> <img src="https://github.com/Namit-07/Web-Dev/blob/main/Sigma%20Web%20Dev%20course/Projects/ToDo%20List/Screenshot%202025-10-05%20170641.png" width="600"/> <br/> <i>Preview of one of the React projects built during the course</i> </p>
 📬 Connect With Me
 <p align="center"> <a href="https://github.com/Namit-07"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/namit-tickoo-69b2a9367/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> </p>
 <p align="center"> ✨ <b>Every project here is a building block toward becoming a full-stack developer ready for GSoC 2026.</b> ✨ </p>
