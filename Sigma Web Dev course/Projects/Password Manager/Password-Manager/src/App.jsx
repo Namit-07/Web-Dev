@@ -10,7 +10,12 @@ function App() {
     <>
     <Navbar/>
     <Manager/>
-      <div>My Ui</div>
+      <div className='font-bold text-2xl text-center'>
+        <span className='text-green-500'>&lt;</span>
+          <span>Your Saved Passwords</span><span>
+             <span className='text-green-500'>/&gt;</span>
+        </span>
+      </div>
     </>
   )
 }
