@@ -15,6 +15,7 @@
 | 2 | **To-Do List** | A full React app to create, update, and delete tasks. | React, TailwindCSS, uuid |
 | 3 | **Spotify** | A fully functional media player inspired by Spotify. | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB |
 | 4 | **Netflix** | Pure HTML/CSS/JS project inspired by Netflix. | HTML, CSS, JS |
+| 5 | **PassJail** | Store your passwords securely in one place. | HTML, JS, Express.js, Node.js, React, TailwindCSS, MongoDB |
 
 ---
 
