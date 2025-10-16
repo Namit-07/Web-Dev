@@ -2,6 +2,6 @@
 
 @layer components{
     .mycontainer{
-        @apply mx-auto px-40 py-16;
+        @apply mx-auto px-40 py-8;
     }
 }
