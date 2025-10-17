@@ -79,7 +79,7 @@ Backend: http://localhost:5000
 - 💾 Add local encryption fallback for offline use
 
 ## 🖼️ Preview
-<p align="center">  <br/> <i>Minimal, clean UI built with React + TailwindCSS + MongoDB</i> </p>
+<p align="center"><img src="https://github.com/Namit-07/Web-Dev/blob/main/Sigma%20Web%20Dev%20course/Projects/Password%20Manager/Password-Manager-LocalStorage/Screenshot%202025-10-16%20202022.png"><br/> <i>Minimal, clean UI built with React + TailwindCSS + MongoDB</i> </p>
 
 <h2>💬 “A secure web app isn’t just about storing passwords — it’s about learning to build trust through good code.”
 
