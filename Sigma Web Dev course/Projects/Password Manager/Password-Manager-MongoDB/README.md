@@ -1,5 +1,3 @@
-## ⚙️ **2️⃣ MongoDB + Express Version README**
-
 # 🧠 Password Manager (MERN Version)
 
 A full-stack **Password Manager** built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
