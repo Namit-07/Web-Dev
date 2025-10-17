@@ -52,6 +52,7 @@ node index.js
 cd frontend
 npm start
 Frontend runs at http://localhost:3000
-```
 Backend runs at http://localhost:5000
+```
+
 
