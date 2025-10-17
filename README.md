@@ -36,6 +36,7 @@ This repo reflects:
 - [X.com Clone](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/X.com%20Clone): Using Tailwind CSS only
 - [Automated Attendance System](https://github.com/Namit-07/AAS): HTML, Bootstrap, Tailwind CSS, JavaScript, Node.js, Express.js, MongoDB and JWT
 - [Todo List](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/ToDo%20List): React, TailwindCSS and uuid
+- [Password Manager](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Password%20Manager): React, TailwindCSS, expressjs, nodejs, mongodb
 
 ---
 
