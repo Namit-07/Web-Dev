@@ -13,12 +13,17 @@ const Manager = () => {
     });
     const [passwordArray, setPasswordArray] = useState([]);
 
+    const getPasswords = async() => {
+        let req = await fetch("http://localhost:3000/ ")
+        let passwords = await req.json()
+        console.log(passwords) 
+        setPasswordArray(passwords)
+       
+    }
+
     useEffect(() => {
-        let passwords = localStorage.getItem("passwords")
-        let passwordArray;
-        if (passwords) {
-            setPasswordArray(JSON.parse(passwords))
-        }
+        getPasswords()
+        
     }, [])
 
     const copyText = (text) => {
@@ -48,7 +53,7 @@ const Manager = () => {
 
     }
 
-    const savePassword = () => {
+    const savePassword = async () => {
         if (!form.site || !form.username || !form.password) {
             toast.error('⚠️ Please fill all fields!', {
                 position: "top-right",
@@ -62,9 +67,30 @@ const Manager = () => {
             });
             return;
         }
-        setPasswordArray([...passwordArray, { id: uuidv4(), ...form }])
-        localStorage.setItem("passwords", JSON.stringify([...passwordArray, { id: uuidv4(), ...form }]))
-        console.log([...passwordArray, form])
+
+        // If editing (form.id exists), delete the old entry first
+        if (form.id) {
+            await fetch("http://localhost:3000/ ", {
+                method: "DELETE", 
+                headers: {"Content-Type": "application/json"}, 
+                body: JSON.stringify({id: form.id})
+            })
+        }
+
+        // Generate a single UUID for both local state and database
+        const newId = uuidv4();
+        const newPassword = { ...form, id: newId };
+        
+        setPasswordArray([...passwordArray, newPassword])
+        await fetch("http://localhost:3000/ ", {
+            method: "POST", 
+            headers: {"Content-Type": "application/json"}, 
+            body: JSON.stringify(newPassword)
+        })
+
+        // localStorage.setItem("passwords", JSON.stringify([...passwordArray, { id: uuidv4(), ...form }]))
+        // console.log([...passwordArray, form])
+        
         setForm({site: "", username: "", password: ""}) 
          toast('🦄 Password Saved!!', {
             position: "top-right",
@@ -80,12 +106,13 @@ const Manager = () => {
         
     }
 
-    const deletePassword = (id) =>{
+    const deletePassword = async (id) =>{
         console.log("Deleting password with id: ", id)
         let c = confirm("Are you sure you want to delete this password?")
         if (c){
             setPasswordArray(passwordArray.filter(item=> item.id !== id))
-            localStorage.setItem("passwords", JSON.stringify(passwordArray.filter(item=> item.id !== id)))
+            // localStorage.setItem("passwords", JSON.stringify(passwordArray.filter(item=> item.id !== id)))
+            let res = await fetch("http://localhost:3000/ ", {method: "DELETE", headers: {"Content-Type": "application/json"}, body: JSON.stringify({ id, ...form })})
             toast('🦄 Password Deleted!!', {
                 position: "top-right",
                 autoClose: 5000,
@@ -101,9 +128,8 @@ const Manager = () => {
 
     const editPassword = (id) =>{
         console.log("Editing password with id: ", id)
-        setForm(passwordArray.filter(i=> i.id === id)[0])
+        setForm({...passwordArray.filter(i=> i.id === id)[0], id: id})
         setPasswordArray(passwordArray.filter(item=> item.id !== id))
-        localStorage.setItem("passwords", JSON.stringify(passwordArray.filter(item=> item.id !== id)))
     }
 
 
@@ -191,7 +217,7 @@ const Manager = () => {
                                         </div>
                                     </div>
                                     </td>
-                                    <td className='py-2 border border-white text-center'><div className='flex items-center justify-center'><span>{item.password}</span>
+                                    <td className='py-2 border border-white text-center'><div className='flex items-center justify-center'><span>{"*".repeat(item.password.length)}</span>
                                         <div className='lordiconcopy size-7 cursor-pointer' onClick={() => { copyText(item.password) }}>
                                             <lord-icon
                                                 style={{ width: "25px", height: "25px", paddingTop: "2px", paddingLeft: "3px" }}
