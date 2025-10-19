@@ -1,76 +1,102 @@
-# 🌐 Web Development Course – Full Stack Portfolio & Learning Journey
+# 🌐 Namit's Web Development Journey  
 
-Welcome to my **Web Development Course Repository**, where I document my journey to becoming a **professional full-stack developer**.  
-This repository combines **complete course notes**, **hands-on practice**, and **real projects** — serving as both a **learning hub** and a **portfolio showcase** for recruiters and collaborators.
-
----
-
-## 🚀 About the Repository
-
-This repo reflects:
-
-- 📚 Structured learning: HTML, CSS, JavaScript, and beyond
-- 👨‍💻 Daily code practice and personal mini-projects
-- 💼 A professional portfolio in progress for job and internship opportunities
-- 🌱 Early preparation for **Google Summer of Code 2026 (GSoC)**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-## 🧠 Technologies Covered
+## 🚀 Overview  
 
-| ✅ Tech/Tool         | 📌 Status        |
-|----------------------|------------------|
-| HTML5                | ✅ Completed      |
-| CSS3                 | ✅ Completed    |
-| JavaScript (ES6+)    | ✅ Completed    |
-| Git & GitHub         | ✅ Active Daily   |
-| Responsive Design    | 🔜 Implementing in every project  |
-| React.js             | 🔜 Ongoing   |
-| Backend (Node.js, MongoDB) | ✅ Completed   |
-| Deployment (Netlify/Vercel) | 🔜 Upcoming      |
+Welcome to my **Web Development Repository**, where I’ve documented my complete learning journey through the **Sigma Web Dev Course** — from *HTML basics* to building *advanced full-stack projects with Next.js*.  
+
+This repo serves as both my **personal learning space** and a **portfolio** of everything I’ve built along the way 💻  
 
 ---
 
-## ✨ Projects
-- [Netflix Clone](https://namit-07.github.io/NetflixClone-Demo/): Using CSS and HTML only
-- [X.com Clone](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/X.com%20Clone): Using Tailwind CSS only
-- [Automated Attendance System](https://github.com/Namit-07/AAS): HTML, Bootstrap, Tailwind CSS, JavaScript, Node.js, Express.js, MongoDB and JWT
-- [Todo List](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/ToDo%20List): React, TailwindCSS and uuid
-- [Password Manager](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Password%20Manager): React, TailwindCSS, expressjs, nodejs, mongodb
+## 🧠 What I’ve Learned  
+
+### 🌐 Frontend  
+- HTML5, CSS3, JavaScript ES6+  
+- DOM Manipulation, Flexbox, Grid  
+- Responsive Design, Media Queries  
+- TailwindCSS for styling  
+- React (Hooks, Props, State, useEffect, useRef, useMemo, useCallback, Context API)  
+
+### ⚙️ Backend  
+- Node.js & Express.js for API development  
+- MongoDB for data storage  
+- CRUD operations & REST API architecture  
+- Authentication (JWT / Auth.js)  
+- Server integration with frontend  
+
+### ⚡ Advanced Concepts  
+- Next.js (Routing, SSR, SSG, ISR, Middleware, API Routes, Environment Variables)  
+- Hosting on Ubuntu VPS and cloud platforms  
+- End-to-end project structuring  
+- Working with reusable components  
 
 ---
 
-## ✨ Highlights
+## 💡 Projects  
 
-- ✅ Semantic HTML structure with clean, maintainable code
-- 🎬 Embedded media support (video, image)
-- 🔄 Ongoing GitHub commits reflecting active learning
-- 📈 Designed to evolve into a full developer portfolio
+Here are some of the key projects I’ve built during this journey 👇  
 
----
-
-## 🎯 Goals & Vision
-
-This repository is part of a long-term plan to:
-
-- ✅ Master full-stack development fundamentals  
-- 📂 Build a portfolio that showcases real-world dev skills  
-- 🌍 Contribute to open-source and prepare for **GSoC 2026**  
-- 🧑‍💻 Land internships and roles at top tech companies  
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 📝 [To-Do List](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/ToDo%20List) | A simple, responsive task manager with CRUD operations | HTML, CSS, JS |
+| 🎬 [Netflix Clone](#) | Frontend UI clone of Netflix with responsive design | HTML, CSS |
+| 🔐 [Password Manager](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Password%20Manager) | Secure password manager — LocalStorage & MongoDB versions | React, Tailwind, Node.js, Express, MongoDB |
+| 🐦 [X (Twitter) Clone](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/X.com%20Clone) | Full-fledged social media frontend | React, Tailwind |
+| 💻 Next.js Final Projects | Advanced projects demonstrating SSR, ISR, and APIs | Next.js, MongoDB, Express |
 
 ---
 
-## 📫 Let's Connect
+## 🧰 Tools & Technologies  
 
-- 🔗 GitHub: [@Namit-07](https://github.com/Namit-07)
-- 🔗 LinkedIN: [Namit Tickoo](https://www.linkedin.com/in/namit-tickoo-69b2a9367/)
-- 🌐 Portfolio: *Coming soon*
-- 📬 Open to: internships • open-source • tech community building
+| Category | Tools |
+|-----------|-------|
+| **Frontend** | HTML, CSS, JavaScript, React, TailwindCSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Version Control** | Git, GitHub |
+| **Deployment** | Vercel, Render, Ubuntu VPS |
+| **Other Tools** | Postman, VS Code |
 
 ---
 
-> **"Learning in public, building with purpose."**  
-> *This repo is proof that consistency and passion beat perfection.*
+## 🧭 My Current Focus  
+
+- Building **full-stack web apps** with real-world scalability  
+- Preparing for **GSoC 2026** and contributing to open-source projects  
+- Learning **TypeScript**, **GraphQL**, and **Cloud Deployment** next  
+
+---
+
+## 🎯 Goals Ahead  
+
+- ✅ Complete advanced projects in Next.js  
+- 🚀 Make 10+ meaningful open-source contributions  
+- 💼 Land an internship / GSoC project by 2026  
+- 🌍 Build my personal portfolio website  
+
+---
+
+## 🤝 Connect with Me  
+
+👨‍💻 **Namit Tickoo**  
+🌐 [GitHub](https://github.com/Namit-07) • [LinkedIn](https://linkedin.com/in/namit-tickoo-69b2a9367)  
+
+> 💬 *“Every great developer you know once wrote code that didn’t work. The difference is — they never stopped writing.”*  
+
+---
+
+⭐ **If you found this repo useful or inspiring, don’t forget to give it a star!**  
 
 
 
