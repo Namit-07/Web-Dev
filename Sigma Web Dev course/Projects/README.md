@@ -16,8 +16,7 @@
 | 3 | **Spotify** | A fully functional media player inspired by Spotify. | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB |
 | 4 | **Netflix** | Pure HTML/CSS/JS project inspired by Netflix. | HTML, CSS, JS |
 | 5 | **PassJail** | Store your passwords securely in one place. | HTML, JS, Express.js, Node.js, React, TailwindCSS, MongoDB |
-
----
+| 6 | **URL Shortener** | Shorten your links within seconds. | React, TailwindCSS, MongoDB, Next.js |
 
 ## ⚙️ Setup & Installation
 
