@@ -1,6 +1,8 @@
+'use client'
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import { usePathname } from "next/navigation";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -12,18 +14,16 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "BitTree - Your favourite link sharing site",
-  description: "We brought a revoulution in link sharing",
-};
-
 export default function RootLayout({ children }) {
+  const pathname = usePathname();
+  const hideNavbar = pathname === '/generate';
+
   return (
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Navbar/>
+        {!hideNavbar && <Navbar/>}
         {children}
       </body>
     </html>
