@@ -53,7 +53,7 @@ Here are some of the key projects I’ve built during this journey 👇
 | 🎬 [Netflix Clone](#) | Frontend UI clone of Netflix with responsive design | HTML, CSS |
 | 🔐 [Password Manager](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Password%20Manager) | Secure password manager — LocalStorage & MongoDB versions | React, Tailwind, Node.js, Express, MongoDB |
 | 🐦 [X (Twitter) Clone](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/X.com%20Clone) | Full-fledged social media frontend | React, Tailwind |
-| 💻 Next.js Final Projects | Advanced projects demonstrating SSR, ISR, and APIs | Next.js, MongoDB, Express |
+| 💻 [LinkTree](https://github.com/Namit-07/Web-Dev/tree/main/Sigma%20Web%20Dev%20course/Projects/Link%20Tree/linktree) | Fully LinkTree working clone | Next.js, MongoDB, Express, React |
 
 ---
 
