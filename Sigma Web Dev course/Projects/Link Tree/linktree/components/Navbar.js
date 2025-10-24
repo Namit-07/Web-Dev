@@ -1,17 +1,20 @@
 import React from 'react'
+import Link from 'next/link'
 
 const Navbar = () => {
   return (
     <nav className='bg-white w-[90vw] flex justify-between fixed absolute top-12 right-[4.5vw] rounded-full p-3  '>
       <div className="logo flex gap-16 items-center px-8">
+        
         <img className="h-6" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" alt="" />
+        
 
         <ul className='flex gap-6 text-black items-center'>
-            <li>Products</li>
-            <li>Templates</li>
-            <li>Marketplace</li>
-            <li>Learn</li>
-            <li>Pricing</li>
+            <Link href="/">Products</Link>
+            <Link href="/">Templates</Link>
+            <Link href="/">Marketplace</Link>
+            <Link href="/">Learn</Link>
+            <Link href="/">Pricing</Link>
         </ul>
       </div>
       <div className='flex gap-3'>

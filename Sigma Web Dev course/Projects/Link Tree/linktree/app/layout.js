@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export default function RootLayout({ children }) {
   const pathname = usePathname();
-  const hideNavbar = pathname === '/generate';
+  const hideNavbar = pathname === '/generate' || (pathname !== '/' && pathname !== '/generate');
 
   return (
     <html lang="en">
