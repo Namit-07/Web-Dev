@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 LinkTree Clone — Bittree  
 
-## Getting Started
+A modern **LinkTree Clone** built using **Next.js**, **React**, and **Tailwind CSS**.  
+This project allows users to create their own “Bittree” page — a single personalized link to showcase all their social profiles, projects, or websites.
 
-First, run the development server:
+---
+
+## 🚀 Features  
+
+✅ **Modern UI** – Clean, responsive interface inspired by Linktree’s design.  
+✅ **Custom Handle** – Users can claim their unique handle (e.g., `/namitcoder`).  
+✅ **Dynamic Link Management** – Add multiple links dynamically with text and URLs.  
+✅ **Profile Preview** – See how your “Bittree” will look before publishing.  
+✅ **Fully Responsive** – Optimized for desktop, tablet, and mobile devices.  
+✅ **Next.js Server Components** – For fast rendering and SEO optimization.  
+✅ **Reusable Components & Hooks** – Built with scalability and clean structure in mind.
+
+---
+
+## 🛠️ Tech Stack  
+
+| Area | Technology |
+|------|-------------|
+| **Frontend** | Next.js, React |
+| **Styling** | Tailwind CSS |
+| **Backend** | Next.js API Routes |
+| **Language** | JavaScript (ES6+) |
+| **Hosting** | Vercel |
+
+---
+
+## 📸 Screenshots  
+
+<p align="center"> <img src="https://github.com/Namit-07/Web-Dev/blob/main/Sigma%20Web%20Dev%20course/Projects/Link%20Tree/linktree/public/Screenshot%202025-10-24%20122848.png" width="600px" alt="ToDo List Screenshot"/> <br/> <i>Minimal, clean UI built with React + TailwindCSS + Next.js</i> </p>
+
+---
+
+## ⚙️ Installation  
+
+To run this project locally:  
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone the repository
+git clone https://github.com/Namit-07/Web-Dev.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+# Navigate to project folder
+cd "Sigma Web Dev course/Projects/Link Tree/linktree"
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+# Install dependencies
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Run the development server
+npm run dev
+Open your browser at http://localhost:3000 🚀
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧠 Learning Outcomes
+- Implemented Next.js routing, API routes, and middleware
+- Hands-on with React Hooks like useState, useEffect, and useRef
+- Gained understanding of SSR, SSG, and ISR concepts
+- Strengthened skills in frontend design and responsive UI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📅 Project Info
+- 📘 Project Name: Bittree (Linktree Clone)
+- 🧑‍💻 Developer: Namit Tickoo
+- 📆 Completion Date: October 2025
+- 🎯 Purpose: Final Project of Sigma Web Development Course
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⭐ Acknowledgment
+Special thanks to CodeWithHarry’s Sigma Web Dev Course for the structured learning path that helped shape this project.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🏁 Conclusion
+This project marks the completion of my full Sigma Web Development journey, from HTML basics to advanced Next.js full-stack apps.
+It demonstrates both technical skill and frontend creativity — a step closer to becoming a full-fledged Full Stack Developer 🚀
+
+---
+
+## 🤝 Connect with Me  
+
+👨‍💻 **Namit Tickoo**  
+🌐 [GitHub](https://github.com/Namit-07) • [LinkedIn](https://linkedin.com/in/namit-tickoo-69b2a9367)  
+
+> 💬 *“Every great developer you know once wrote code that didn’t work. The difference is — they never stopped writing.”*  
+
+---
+
+⭐ **If you found this repo useful or inspiring, don’t forget to give it a star!**  
+
